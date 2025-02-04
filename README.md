@@ -82,7 +82,7 @@ So I do my best in every specialtation area. My programming languages are Python
 </div>
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<h2 align = "center"> 📉 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /></h2>
 <div> 
 <a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
 <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution" src="https://github-contributor-stats.vercel.app/api?username=KSKOP69&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
