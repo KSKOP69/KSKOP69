@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
+<h2 align="center"> 💬 About me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="60" /></h2>
 
 ```zsh
 > neofetch
@@ -125,7 +125,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 
 <details>
-  <summary><h2>A Quote from a random Developer 💭</h2></summary>
+  <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
     <a href="https://github.com/KSKOP69/KSKOP69">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
