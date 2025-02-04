@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 About me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="60" /></h2>
+<h2 align="center"> 💬 About me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="40" /></h2>
 
 ```zsh
 > neofetch
@@ -135,7 +135,7 @@ So I do my best in every specialtation area. My programming languages are Python
 <br>
 
 <details>
-  <summary><h2>🔗 Let's connect 🤝</h2></summary>
+  <summary><h2>🔗 Let's connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="40" height="40" /></h2></summary>
   <div align="center">
     <p><b>If you want to talk to me about anything, be it some sort of doubt or just to hang out. ☺️</b><br>
     <b>All my social media handles are provided below. I will definitely reply. Be patient. 👍</b></p>
