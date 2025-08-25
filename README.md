@@ -133,7 +133,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
     <a href="https://github.com/KSKOP69/KSKOP69">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes">
     </a>
   </div>
 </details>
