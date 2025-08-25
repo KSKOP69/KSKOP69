@@ -98,7 +98,8 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 
 <h2 align = "center"> 🏆 GitHub Trophies ✨ </h2>
 <div>
-<a herf="https://github.com/KSKOP69/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KSKOP69&margin-w=15&margin-h=10&row=3&column=8&count_private=true&include_all_commits=true&theme=dracula" alt="Trophies" width="150%"/></a><br>
+<a herf="https://github.com/KSKOP69"><img src="https://github-trophies.vercel.app/?username=KSKOP69&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Trophies" width="150%"/></a><br>
+
 </div>
 <br>
 
