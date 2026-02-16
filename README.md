@@ -88,10 +88,10 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 
 <h2 align = "center"> 📉 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /></h2>
 <div> 
-<a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
+<a href="https://github.com/KSKOP69"><img alt="KSK's Github Stats" src="https://github-stats-extended.vercel.app/api/?username=KSKOP69&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=28&rank_icon=github&hide_border=true&icon_color=F8D866" width="49%"/></a>
 <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution" src="https://github-contributor-stats.vercel.app/api?username=KSKOP69&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" width="49%"/></a>
 <a href="https://github.com/KSKOP69"><img alt="KSK's GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=KSKOP69&theme=midnight-purple&hide_border=true&card_width=500&card_height=200" width="49%"/></a>
-<a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
+<a href="https://github.com/KSKOP69"><img alt="KSK's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KSKOP69&layout=compact&theme=midnight-purple&hide_border=true" width="49%"/></a>
 <a href="https://github.com/KSKOP69"><img alt="KSK's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KSKOP69&theme=midnight-purple&bg_color=000000&title_color=9f4bff&hide_border=true&radius=4.5&color=9f4bff&line=ff0000&point=ff5500&area=true&area_color=ff6161" /></a>
 </div>
 <br>
@@ -125,7 +125,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 <div>
 <h2 align="center">View counter 👀</h2>
 <div align="center">
-<img src="https://moe-counter.glitch.me/get/@KSKOP69?theme=gelbooru" />
+<img src="https://count.getloli.com/@KSKOP69?theme=gelbooru&darkmode=1" />
   </div>
 <br>
 
